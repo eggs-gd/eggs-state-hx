@@ -1,0 +1,15 @@
+{
+	"name": "eggs-state",
+	"license": "MIT",
+	"tags": ["statemashine","eggs"],
+	"description": "A statemashine realisation for haxe",
+	"contributors": ["eggs"],
+	"releasenote": "Initial version. Basic mechanism",
+	"version": "0.0.1-alpha",
+	"url": "https://github.com/eggs-gd/eggs-state-hx",
+	"dependencies": 
+	{
+		"eggs-utils": "",
+		"msignal": ""
+	}
+}

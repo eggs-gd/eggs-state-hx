@@ -1,0 +1,9 @@
+<project name="eggs-state" url="https://github.com/eggs-gd/eggs-state-hx" license="MIT">
+	<user name="eggs"/>
+	<description><![CDATA[A statemashine realisation for haxe]]></description>
+	<version name="0.0.1-alpha"><![CDATA[Initial version. Basic mechanism]]></version>
+	<depends name="eggs-utils"/>
+	<depends name="msignal"/>
+	<tag v="statemashine"/>
+	<tag v="eggs"/>
+</project>
