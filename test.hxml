@@ -8,6 +8,7 @@
 
 -cp src
 -cp ../eggs-utils-hx/src
+-cp ../eggs-mvc-hx/src
 -cp test
 
 -swf-version 11.8
@@ -29,6 +30,7 @@
 
 -cp src
 -cp ../eggs-utils-hx/src
+-cp ../eggs-mvc-hx/src
 -cp test
 -neko target/test/build/neko_test.n
 
@@ -45,6 +47,7 @@
 
 #-cp src
 #-cp ../eggs-utils-hx/src
+#-cp ../eggs-mvc-hx/src
 #-cp test
 #-D HXCPP_M64
 #-cpp target/test/build/cpp_test
